@@ -16,6 +16,7 @@ reset-password.html – Reset password with show/hide toggles (redirects to logi
 <br>
 dashboard.html – Simple dashboard with navbar + logout
 <br>
+
 Tech
 <br>
 Bootstrap 5 (CDN)
@@ -26,10 +27,12 @@ Google Font: Inter
 <br>
 Custom CSS: gradients, card shadows, transitions, button hover effects
 <br>
+
 Notes
 <br>
 This is a front-end UI template. Form submissions are simulated using onsubmit handlers that redirect between pages.
 <br>
+
 Folder Structure
 <br>
 basic-login-system/
