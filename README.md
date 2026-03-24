@@ -1,4 +1,5 @@
 Basic Login System (UI)
+
 A professional, responsive authentication UI built with HTML, Bootstrap 5, Bootstrap Icons, and custom CSS.
 
 Pages
@@ -7,6 +8,7 @@ register.html – Registration form (redirects to login)
 forgot-password.html – Request reset link (redirects to reset page)
 reset-password.html – Reset password with show/hide toggles (redirects to login)
 dashboard.html – Simple dashboard with navbar + logout
+
 Tech
 Bootstrap 5 (CDN)
 Bootstrap Icons (CDN)
