@@ -1,7 +1,9 @@
-#Basic Login System (UI)
+Basic Login System (UI)
 <br>
+
 A professional, responsive authentication UI built with HTML, Bootstrap 5, Bootstrap Icons, and custom CSS.
 <br>
+
 Pages
 <br>
 login.html – Login form (redirects to dashboard)
