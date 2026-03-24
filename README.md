@@ -36,11 +36,19 @@ This is a front-end UI template. Form submissions are simulated using onsubmit h
 Folder Structure
 <br>
 basic-login-system/
+<br>
   login.html
+  <br>
   register.html
+  <br>
   forgot-password.html
+  <br>
   reset-password.html
+  <br>
   dashboard.html
+  <br>
   styles.css
+  <br>
   README.md
+  <br>
   screenshots/
